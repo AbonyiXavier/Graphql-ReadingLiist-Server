@@ -1,1 +1,1 @@
-# Graphql-ReadingLiist-Server
+# Graphql-ReadingList-Server
